@@ -1,0 +1,22 @@
+/* Funciones!!
+*las funciones consisten en generar de  una lista de setnencias 
+* A  ejecutar. _Una lista de parametros de entrada regualar
+*las palabras a usar son funcion o fun
+*se regresa  con la parabra clave regresar, retornar
+* o la Corta que es ret
+*/ 
+ //Ejemplo de elllo es:
+	/* fun nombredelaFuncion (argumento1, argumento2)
+	*	#Codigo
+	*	retornar resultado 
+	*  	 #Opcion corta: ret resultado
+	*/
+
+fun sumar(a,b)
+ret a+b
+fin
+
+//Para invovar (ejecutar) una funcion se hace con el nombre y la lista de  parametros
+r= suma(3,6) //Se almacena el resultado en r
+escribir (r)
+

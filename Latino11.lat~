@@ -1,0 +1,9 @@
+//cadenas
+
+a= "" //ponemos una cadena vacia
+
+//Ponemos una condicion
+
+Si cadena.esta_vacia(a)
+	imprimir("La cadena de esta vacia ")
+sino

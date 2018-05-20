@@ -1,0 +1,6 @@
+escribir (" Hola ingresa tu nombre")
+a=leer()
+
+escribir ("Hola ".. a .. " Seas bienvenido")
+
+

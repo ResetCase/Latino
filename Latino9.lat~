@@ -1,0 +1,50 @@
+//Calculadora hecha en latino
+
+
+escribir(" -->Ingresa el primer numero <--")
+a =leer() /*
+escribir (" --> Ingresa el segundo numero <--")
+b= leer()
+escribir ("Ingresa una operacion a realizar")
+operacion= leer() */
+
+escribir("Usted Escribio: ". a)
+
+
+
+	/*si operacacion == suma
+	suma= a+b
+	escribir (" el resultado de la suma es: ". suma)
+	fin
+
+	si operacion == resta
+	 si a>=b
+ 		resta=a-b
+	 fin	
+sino ("El valor de b es mayor al de a Por lo tanto el valor da error")
+	fin
+
+	si operacion ==multiplicar
+	operacion= a*b
+	fin
+
+	si operacion==dividir
+	operacion=a/b
+	fin
+			*/
+/*
+
+	fun suma(a,b)
+	si (resu
+	resultado=a+b
+
+ret resultado	
+	fin 
+	
+	fun resta(a,b)
+	resultado=a-b
+ret resultado
+	fin
+
+	fun multiplicar(a,b)
+fin */

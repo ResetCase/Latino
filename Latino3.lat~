@@ -1,0 +1,14 @@
+// (#) Este es un comentario de una sola linea Ya no sirve
+// Este tambien es un comentario de una sola linea
+
+/* Este es un cometnario de varias  lineas
+* @Autor:Emperator
+* <h1> Hola Emperator </h1>
+*/
+
+// Concatenar cadenas de caracteres se hace con un punto (.)
+
+saludo='Hola'
+nombre='Emperator'
+	escribir(saludo.nombre)
+

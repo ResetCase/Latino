@@ -1,0 +1,7 @@
+a= "333"
+
+si cadena.es_numerico(a)
+	imprimir("La cadena 'a' es numerica".. "Porque es: "..a)
+sino
+	imprimir("La cadena 'a' no es numerica".. " por que es: " .. a)
+fin

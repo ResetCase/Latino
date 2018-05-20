@@ -1,0 +1,7 @@
+a=" 		Emperator 		"
+sin_espacios=cadena.recortar(a)
+	imprimir("Cadena sin recortar: "..a)
+//Cadena Recortada
+
+	imprimir("Cadena Recortada: "..sin_espacios)
+//Cadena Recortada

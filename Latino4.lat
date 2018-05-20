@@ -1,0 +1,10 @@
+//whiele o mientras de latino lenguaje programcion
+
+/* Mientras (condiciones)
+* #Codigo
+*/
+i=0
+mientras i < 9
+escribir (i)
+i++ //incremento
+fin

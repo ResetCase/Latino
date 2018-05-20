@@ -1,0 +1,9 @@
+
+
+	a= "Hola_Emperator 333"
+
+	si cadena.es_alfa(a)
+	imprimir ("La cadena 'a ' es alfanumerica")
+	sino
+	imprimir("La cadena 'a' no es alfanumerica")
+	fin

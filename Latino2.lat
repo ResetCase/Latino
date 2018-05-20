@@ -1,0 +1,13 @@
+
+
+desde(i=5; i>=1;i--)
+	
+	 desde (j=1;j<=i;j++)
+			
+		escribir("*")
+		
+			escribir("-")
+	
+	fin
+fin
+

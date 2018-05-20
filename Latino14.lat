@@ -1,0 +1,8 @@
+a="hola Emperator"
+mayusculas= cadena.mayusculas(a)
+imprimir (" La cadena mayuscula es: ".. mayusculas)
+
+minusculas=cadena.minusculas (mayusculas)
+imprimir (" La cadena de minusculas es: " ..minusculas)
+
+//aca cambiamos una cadena minuscula a mayuscula y luego a minusculas

@@ -1,0 +1,16 @@
+//Repetir hasta 
+/* Hace que una instruccion o bloque de instrucciones se
+*repita hastas que hasta que la condicion sea falsa
+*se ejecutan al menos una solo vez
+*/
+
+/* repetir 
+* #Codigo
+* hasta  condicion
+*/
+i=0
+repetir
+    escribir(i)
+    i++ #incremento
+hasta i == 10
+

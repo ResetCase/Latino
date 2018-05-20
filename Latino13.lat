@@ -1,0 +1,7 @@
+
+a="HOLA EMPERATOR" // Cadena de caracteres mayusculas
+
+minusculas= cadena.minusculas(a)
+
+imprimir("La cadena de minusculas  es: " ..minusculas)
+
