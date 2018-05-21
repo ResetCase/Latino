@@ -1,9 +1,9 @@
-a="hola Emperator"
+a="hola lord Emperator"
 separacion_normal=cadena.separar(a)
-imprimir("En la cadena 'a'a se reemplazo el espacio y se creo una segunda lista, debido a que no hay segundo parametro, se separar por espacios\n",1)
+imprimir("En la cadena 'a'a se reemplazo el espacio y se creo una segunda lista, debido a que no hay segundo parametro,se separar por espacios \n",1)
 imprimir("El resultado es el siguiente: "..separacion_normal)
 
 a="HOLA Emperator-333"
 separacion_por_simbolos_o_letras_indicada=cadena.separar(a, "-")
 imprimir("\n\n Volvemos a declarar el valor 'a' con otra frase y eleigmos un modo de separacion, en este caso se usara el simbolo '-'\n",1)
-imprimir
+imprimir("El resultado es el siguiente: "..separacion_por_simbolo_o_letra_indicada)

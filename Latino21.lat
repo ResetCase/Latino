@@ -1,0 +1,6 @@
+a="ola emperator"
+b="H"
+c=3
+resultado=cadena.rellenar_izquierda(a, b, c)
+imprimir("La cadena final es: "..resultado)
+

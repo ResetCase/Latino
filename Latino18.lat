@@ -1,6 +1,6 @@
-a="hola Emperator"
+a="hola lord emperador"
 separacion_normal=cadena.separar(a)
-imprimir("En la cadena 'a'a se reemplazo el espacio y se creo una segunda lista, debido a que no hay segundo parametro, se separar por espacios\n",1)
+imprimir("En la cadena 'a'a se reemplazo el espacio y se creo una segunda lista, debido a que no hay segundo parametro,se separar por espacios \n",1)
 imprimir("El resultado es el siguiente: "..separacion_normal)
 
 a="HOLA Emperator-333"

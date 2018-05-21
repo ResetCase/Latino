@@ -1,0 +1,6 @@
+a="Hola lord emperator"
+b="0"
+c=1
+resultado=cadena.rellenar_derecha(a, b, c)
+
+	imprimir("La cadena final es: ".. resultado)

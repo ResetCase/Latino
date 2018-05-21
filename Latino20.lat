@@ -1,0 +1,5 @@
+a ="ola emperador"
+b="H"
+c=0
+	insertado=cadena.insertar(a, b, c)
+imprimir(insertado)

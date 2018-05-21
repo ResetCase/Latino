@@ -1,0 +1,6 @@
+a=" Hola LORD Emperator"
+ mi_cadena_inicia_con_h
+	imprimir("La cadena 'a' inicia con la  letra H")
+si mi_cadena_inicia_con_h
+	imprimir("La cadena 'a' inicia con la letra H")
+sino
