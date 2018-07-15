@@ -1,0 +1,7 @@
+
+
+variable={2,"Hola",true}
+variable2={{2,"hola",true},{"chao",3,false,true},{1,2,3,4}}
+poner(variable)
+poner("\n"..variable2)
+

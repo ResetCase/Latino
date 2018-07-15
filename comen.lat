@@ -1,0 +1,5 @@
+poner(" Estos son los tipo de comentarios // o /* a */ ")
+
+// pero vamos a ver si este tipo de comentarios tambien funciona aca
+
+poner("es cadena comun --Comentario salvaje -- Sigue la linea") 

@@ -1,0 +1,6 @@
+
+g, t= 2, 89
+
+
+
+poner(g.."\n\r\rHola esta es otra variable\n\r\r"..t)

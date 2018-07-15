@@ -1,0 +1,7 @@
+
+
+a=5
+
+	si a<10
+		poner("Adivia que".." a es menor que 10")
+	fin

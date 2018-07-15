@@ -1,0 +1,9 @@
+q='\n aloxx \n xx342'//Al parecer las secuencias de escape de C no funcionan conlas comillas simples
+
+b="Aloxx \n xx452\""
+
+c='\97lo\10\04923"'
+
+
+
+poner("estas son las variables: "..q.."\n"..b.."\n"..c.."\n")

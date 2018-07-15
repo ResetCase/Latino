@@ -1,0 +1,12 @@
+p=0
+a="S"
+Y="33"
+d="33"
+x='Hola'
+y="3Mperador"
+poner("X: "..x.."\nY: "..y.."\n"..a.."\n"..d)
+
+p=Y+d
+
+poner(p)
+

@@ -1,0 +1,17 @@
+
+poner("Ingrese dos numeros")
+numq1=leer()
+num2=leer()
+
+funcion max(numq1, num2)
+
+	si(numq1 > num2)
+
+	result=numq1
+		
+	sino 
+	 result=num2
+	fin
+  retorno result;
+fin
+

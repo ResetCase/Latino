@@ -1,0 +1,11 @@
+
+iter=0// Para que funciones REPETIR la variable tiene que estar
+	// A fuera de las instrucciones.. Sino
+	// entra a un blucle infinito
+	// Muy importante definir las variables antes del REPETIR
+
+repetir
+
+	poner(iter)
+	iter=iter+1
+ hasta(iter >=10)

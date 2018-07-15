@@ -1,0 +1,12 @@
+
+y=3
+x=3
+poner(x)
+
+x=x+6
+poner(x)
+
+x=x+y+3
+poner(x)
+
+
