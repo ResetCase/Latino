@@ -1,0 +1,14 @@
+ // variables pueden ser funciones
+
+	fun nuevo(a,b)
+	a=3
+	b=6
+	retorno (a+b)
+	fin
+	
+
+	x= nuevo()
+	
+
+	poner(x+x)
+

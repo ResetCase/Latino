@@ -1,0 +1,15 @@
+
+
+// El sisitema -- no funciona como comentarios solo funciona en lua
+/* Puede q ue se a algo muy casual pero si tiene ciertas formas
+* Diferentes a LUA */
+
+	funcion minimo(a,b)
+
+		si a<b
+		 retorno a
+		sino
+		retorno b
+		fin
+	fin
+

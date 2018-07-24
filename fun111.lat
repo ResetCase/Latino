@@ -1,0 +1,27 @@
+
+
+
+
+
+	funcion mitra()
+	
+	x=3
+		
+	mientras (x >=10)
+		 
+		si(x==3)
+			poner("libm")
+		sino
+			poner(x)
+		fin
+           x++
+	fin
+	
+	retorno x
+
+	fin
+
+
+
+poner(mitra)
+

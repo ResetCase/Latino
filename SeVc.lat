@@ -1,0 +1,41 @@
+
+poner("\n ___________________________________________________\n")
+
+poner("\n ___________________________________________________\n")
+poner("---> Secuencia\t\v--- de-- ESCAPE\t\v-- Con--\t-- latino <--")
+
+poner("\n ___________________________________________________\n")
+
+poner("\n Esto la secuencia -> '\a'<-  En alguna veces no funciona -> \a")
+
+poner("\n ___________________________________________________\n")
+poner("\n Esta es la secuencia Backspace  \b Tambien aca -> \b".."<-")
+
+poner("\n ___________________________________________________\n")
+poner("\n Esta es la se FORM FEED \f Tambien aca -> \f".."<-")
+
+poner("\n ___________________________________________________\n")
+poner(" \n Linea nueva si funciona y es \n esta se ve usada en todo el script")
+
+poner("\n ___________________________________________________\n")
+poner("\n ................-Retorno de carrito '\r' Tambien aca -> \r".."<-")
+poner("\n ___________________________________________________\n")
+poner("\n Poner Horizontal '\t' Tambien aca -> \t".."<-")
+poner("\n ___________________________________________________\n")
+poner("\n Tab Vertical '\v' Tambien aca -> \v".."<-")
+poner("\n ___________________________________________________\n")
+poner("\n comillas simples '\'' tambien aca -> \' ".."<-")
+poner("\n ___________________________________________________\n")
+poner("\n Comillas dobles '\"' Tambien aca -> \"".."<-")
+poner("\n ___________________________________________________\n")
+poner("\n Interrogante '\?' -> \? <-")
+
+poner("\n  Diagonal \\ ' \\'  " )
+
+poner("\n ___________________________________________________\n")
+poner("\n valor Octal \Ooo ") 
+
+poner("\n ___________________________________________________\n")
+poner("\n Valor Hexadecimal \xhh ")
+poner("\n ___________________________________________________\n")
+

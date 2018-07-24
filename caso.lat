@@ -1,0 +1,10 @@
+// ejercicio de caso o tambien elegir
+
+	c='Y'
+
+ 	elegir(c)
+		defecto:
+			poner("default")
+	fin
+
+//--------------------------------

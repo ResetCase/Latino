@@ -1,0 +1,20 @@
+
+// Seguimos con el ejemplo de casos y de elegir en latino
+//guia elaborada por otgo en github.com/primitivorm/latino/blob/master/ejemplos/08-elegir.lat
+
+// para mas informacion Telegram
+
+
+	c='Y'
+
+	elegir(c)
+		defecto:
+			poner("default")
+	fin
+
+
+	elegir(c)
+		caso 'Y':
+		  poner("C vale Y")
+	fin
+

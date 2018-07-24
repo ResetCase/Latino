@@ -1,0 +1,15 @@
+
+//multiples casos sin opcion defecto
+
+poner("Eliga una opcion x,a,z ")
+c=leer()
+	elegir(c)
+		caso 'x':
+			poner("C vale X")
+		caso 'a':
+			poner("C vale a")
+		caso 'z':
+			poner("c vale z")
+		defecto:
+			poner("Default")
+	fin

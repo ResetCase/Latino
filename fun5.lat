@@ -1,0 +1,10 @@
+// Esto sigue siendo ejemplos y practicas de funciones
+
+
+	funcion Hola()
+	
+	poner(" Hola Emperador")
+
+	fin
+
+Hola()  //Aca uso la funcion

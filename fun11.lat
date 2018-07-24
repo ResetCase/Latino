@@ -1,0 +1,13 @@
+//En este programa  usaremos una funcion junto con algunos bucles
+
+
+	fun wingo()
+			i=0
+			repetir	
+				poner(i)
+				i++
+			hasta (i >=10)
+		retorno i
+	fin
+				
+		poner(wingo())

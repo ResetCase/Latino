@@ -1,0 +1,9 @@
+
+
+// Configuración de datos para conectar al servidor de base de datos
+servidor = 'localhost'     //Servidor (por defecto:localhost)
+prefijo_usuario = 'root' // Usuario para el hospedaje 
+usuario_mysql =io.'prefijo_test' // Usuario MySql para la base de datos
+contraseña_mysql = 'test12345'  Contraseña MySql para la base de datos
+base_de_datos_mysql = prefijo_usuario.'_test'  Base de datos mysql
+A:

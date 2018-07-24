@@ -1,0 +1,8 @@
+//Ejemplos de Diccionarios  -Programa de dicionarios.
+
+
+	dic={ "Hola": "Emperador": "Dios": "Bendito": "Seamos" }
+
+
+poner(dic)
+

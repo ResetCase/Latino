@@ -1,0 +1,8 @@
+
+
+
+	archivo.ejecutar("fun7.lat")
+
+	poner(minimo(6,9))
+	poner(minimo(9,6))
+

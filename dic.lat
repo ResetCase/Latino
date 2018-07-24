@@ -1,0 +1,6 @@
+// Ejemplo de funciones y diccionarios
+
+
+	dic= {carro=5, ruedas=2, vuela='si', Nuc='Nou'}
+
+	poner(dic) 
