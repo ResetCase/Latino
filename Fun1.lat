@@ -1,0 +1,12 @@
+
+
+funcion mi_funcion(num1,num2)
+
+poner(" Esto es:\n ".. num1+num2.. " ")
+
+retorno o
+fin
+mi_funcion(3,4)
+
+
+poner("______________________________")

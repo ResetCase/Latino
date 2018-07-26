@@ -1,0 +1,21 @@
+// programa funcionales con for
+
+
+funcion for(i)
+
+	desde(i=0; i<10; i++)
+	    poner(i)
+	fin
+
+
+	poner("10 a 1:")
+	desde(i=10; i>0; i--)
+    	poner(i)    
+	 fin
+
+retorno i
+
+fin
+
+
+poner (for(10))

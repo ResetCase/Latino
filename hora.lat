@@ -1,0 +1,6 @@
+// Programa Relog elaborado en latino
+// aca invocaremos las funciones externas para crear un relog}
+
+
+poner(" La hora es: ")
+

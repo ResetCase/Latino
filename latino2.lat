@@ -1,0 +1,26 @@
+//Ejemplo de funciones matematicas
+poner("---------------------------------")
+poner("----Ingrese un numero decimal----")
+poner("---------------------------------")
+
+x= leer()
+
+poner("arco coseno de x: ".. mate.acos(x))
+poner("arco tangente de x: ".. mate.atan(x))
+poner("coseno hiperbolico de x: ".. mate.cosh(x))
+poner("tangente hiperbolica x: ".. mate.tanh(x))
+poner("logaritmo entre 0-9: " ..mate.aleatorio(0,9))
+poner("arco seno de x: ".. mate.asen(x))
+poner("coseno de x: ".. mate.tan(x))
+poner("seno de x: ".. mate.sen(x))
+poner("tangente de x: ".. mate.tan(x))
+poner ("logaritmo natural en base 10 de x: "..mate.log10(x))
+poner ("redondeo arriba x: "..mate.techo(x))
+poner ("x^3: "..mate.pot(x,3))
+
+y=3.14
+poner ("1dexp de x: "..mate.ldexp(x, y))
+poner (" Y vale: " ..mate.frexp(x, y))
+poner (" Y vale: ".. y)
+
+poner (" Gracias por utilizarnos ") 

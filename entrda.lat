@@ -1,0 +1,5 @@
+ poner("Ingrese cualquier dato")
+x=leer()
+
+poner("Los datos que ingreso fueron:".. x)
+

@@ -1,0 +1,44 @@
+/*
+*-----------------------------------------------------------------------------
+*Empresa & Organizacion social: <Yosuñ>
+*Frase: "Que tus proyectos vean la luz".
+*Titulo: Impementacion y Desarrollo de bibliotecas latino/Ejercicios
+*Informacion: Formas para facilitar nuestro empeño  a la hora de desarrollar
+*Autor: @Empertor
+*Estado: "Entusiasmado" !
+*Musica: las mejores canciones electronicas de los 80tas<autores desconocidos>
+*Hora: 4:42pm
+*Ubicacion: Cucuta N.S
+*Contactenos: t.me/Yosun // yosu.969@gmail.com //
+*Donaciones: Cual quier ayuda seria muy importante para nuestras metas como laboratorio de desarrollo y de actividades estas se pueden hacer atra vez de nuestros contactos dirigiendose a  yosun.969@gmail.com donde tomaremos de su atencion y donde le explicaremos los diversos procesos  para diligenciar los fondos y con el tiempo observar los resultados. Donde detallaremos de manera objetiva por medio de estos o otros canales la "infomacion". Donde demostrara el compromiso y o las diversas actividades con responsabilidad y dedicacion de los "fondo" para el desarrrollo
+*Colaboraciones: Reactor
+*------------------------------------------------------------------------------
+*/
+
+
+//Implementacion S o N  caracteres para salida de datos 
+
+poner("Ingrese S para aceptar la mision o N para abortar la mision ")
+a=leer()
+minusculas=cadena.minusculas(a)
+
+s="s"
+n="n"
+
+
+	si (minusculas==s)
+		poner("Mision Aceptada")
+
+	sino
+		si (minusculas==n)
+			poner("Mision Abortada")
+	sino
+		si (minusculas != s && minusculas != n)
+		     poner(" Error al ingresar los datos")
+		
+		fin
+	
+		fin
+	fin
+
+ 	

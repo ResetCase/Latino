@@ -1,0 +1,14 @@
+//calendario en latino
+
+
+ano=0
+poner("Año")
+ano=leer()
+
+funcion calendario(ano)
+	
+	desde (mes=1; mes<=12;mes++)
+	poner("Mes: "..mes.."\n")
+	fin
+retorno (ano)
+fin

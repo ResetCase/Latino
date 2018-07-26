@@ -1,0 +1,5 @@
+// programa segundos
+
+desde(s=0; s<100; s++)
+	poner (s)
+fin

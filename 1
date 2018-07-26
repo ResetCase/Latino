@@ -1,26 +1,20 @@
 
-//Estos ejercicios son importantes para la interpretacion
-/* De la forma de practicar las diversas alternativas del
-*lenguaje es con el fin de entender determinar. -Y ulitzar
-* dicho criterio con alta utlidad
-*Muy importante para otros lenguajes de programacion
-* O con el fin de claridad sistematica y social
-*/
 
-// aca defino la funcion
+seg=0 //segundos	
+min=0 //Minutos
+hor=0	//horas
 
-	funcion minimo(a,b)
-		si a<b
-		retorno a
-	sino
-		retorno b
+mientras (1)
+	seg=0
+  si (seg==60)
+	seg=0
+	min++
+		si(min==60)
+		  min==0
+		  hor++
 		fin
-    	fin
-
-// Aca uso la funcion con distintos parametros
-
-poner(minimo(3,9))
-
-poner(minimo(9,3))
-
-
+  fin
+		system("cls");
+	poner("\n\n\n\t\t\t"..seg..min..hor)
+	
+fin

@@ -1,0 +1,24 @@
+//Programa de Contraseñas 
+
+ clave="emperador"
+
+ poner ("ingrese su nombre de ususario")
+  nombre=leer()
+
+ poner ( nombre .. " ingrese su contraseña por favor: ")
+  contra=leer()
+
+	si (clave == contra)
+ 	 poner("Muy bien has ingresado con ¡Exito!. Que te diviertas")
+	
+	sino 
+		si (clave != contra)
+		 poner(nombre.. " ingrese su contraseña de nuevo por favor ")
+			contra=leer()
+
+		sino	
+			si (clave == contra)
+			 poner("Muy bien has logrado ingresar con ¡Exito!. ")
+			fin
+		fin
+	fin

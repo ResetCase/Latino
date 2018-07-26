@@ -1,0 +1,5 @@
+
+desde (i=0; i>=6; i++)
+ imprimir("Contador i ".. i)
+fin
+

@@ -1,0 +1,20 @@
+//reglog hecho en latino
+seg=0 //segundos
+min=0 //Minutos
+hor=0   //horas
+
+mientras 1
+        seg=0
+  si (seg==60)
+        seg=0
+        min=min+1
+                si(min==60)
+                  min==0
+                  hor= hor+1
+                fin
+  fin
+
+        poner(..seg..min..hor)
+
+fin
+

@@ -1,0 +1,7 @@
+ //Ejercicio de mientras
+i=0
+mientras i<= 10
+	poner (i)
+	i=i+1
+fin
+

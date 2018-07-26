@@ -1,0 +1,21 @@
+ //Ejecutar un archivo ("Modulo.lat")
+
+poner(" -> Bienvenido a nuestra plataforma <- ")
+archivo.ejecutar("latino.lat")
+poner("---------------------------------------------")
+poner("----Marca 1 para iniciar o 0 para salir------")
+poner("---------------------------------------------")
+
+z=leer()
+
+si (z==1)
+	archivo.ejecutar("latino3.lat")
+
+ sino
+
+	poner("Gracias por su atencion! Que tenga un buen dia")
+ fin
+
+	
+
+ 

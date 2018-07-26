@@ -1,0 +1,8 @@
+// Mientras  (While)
+
+i=0
+
+mientras (i <=10)
+	poner (i.. " Todo Esto es Tuyo ")
+	i++
+fin

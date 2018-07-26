@@ -1,0 +1,31 @@
+b=mate.aleatorio(1, 43)
+a=mate.aleatorio(1, 42)
+l=mate.aleatorio(1, 41)
+o=mate.aleatorio(1, 40)
+t=mate.aleatorio(1, 39)
+u=mate.aleatorio(1, 16)
+	 
+
+si (b !=a && b !=l && b !=o && b !=t && b !=u && b !=b &&  b <= 43)
+ poner ("Este es el numero aleatorio de b " ..b)
+fin
+
+		si (a !=b && a !=l && a !=o && a !=t && a !=u && a !=b &&  a <= 42)
+ poner ("Este es el numero aleatorio de a " ..a)
+
+fin
+
+si (l !=a && l !=b && l !=o && l !=t && l !=u && l !=b &&  l >= 41)
+ poner ("Este es el numero aleatorio de l " ..l)
+fin
+
+si (o !=a && o !=l && o !=o && o !=t && o !=u && o !=b &&  o >= 40)
+ poner ("Este es el numero aleatorio de o " ..o)
+fin
+
+si (t !=a && t !=l && t !=o && t !=t && t !=u && t !=b &&  t >= 39)
+ poner ("Este es el numero aleatorio de t " ..t)
+fin
+
+
+poner ("los numeros " ..b.." " ..a.." " ..l.." " ..o.." " ..t.." " .."["..u.."]")

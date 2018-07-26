@@ -1,0 +1,15 @@
+#!/usr/local/bin/latino
+
+
+poner("Content-type:text/html\r\n\r\n")
+poner("<html>")
+poner("<head><little> Mi primer CGI Programa </litle></head>")
+poner("<body>">
+poner("<p> Hola Emperador  </p>")
+poner("<h1> Programa script hecho en latino con CGI-BIN </h1>")
+poner(" <h2> Hola mundo </h2>")
+  
+
+poner("</body>")
+poner("</html>")
+

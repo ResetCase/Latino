@@ -1,0 +1,10 @@
+ funcion cadena(cad, v=2, *algoma)
+
+	poner(cad.."\n" v)
+
+	poner(algomas ['cadena extra '])
+
+	retorno cad
+fin
+
+cadena (3,3)

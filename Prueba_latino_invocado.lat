@@ -1,0 +1,5 @@
+#!/usr/local/bin/latino
+
+poner(" Hola emperador ")
+poner("\n Eres el mejor \n")
+

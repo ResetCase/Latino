@@ -1,0 +1,54 @@
+#!/usr/local/bin/latino
+
+
+contra= "supersabiduriaysuperpoderes"
+
+ poner ("Hola Emperadore,. . Dime que deseas, Yo te lo cumplire")
+deseo=leer()
+		si (deseo == contra)
+	
+	a= 19
+	b= 'junio'
+	c= 2018
+
+	si (c>a)
+		poner("hecho Recuerda:" ..a.."-"..b.."-"..c)
+		poner("Hoy pusieron luces led en el barrio")
+		poner("No hubo entrenamiento de tennis porque llovio")
+		poner("Jugo colombia contra japon y perdio 2 a 1")
+		poner("Paola Franco me elimino de facebook por un jajaja")
+		poner("la cicla no es tan buena en dias lluviosos")
+		poner(" Lo que se hace se paga")
+		poner("Tenemos que hacer algo muy Grande para que nos pagen")
+
+	fin
+		fin
+
+ 
+		si (deseo != contra)
+			poner("Quien eres o que te crees")
+		fin
+		
+
+poner (" Quieres saber mas S/n ")
+mas=leer()
+ 	s='s'
+	n='n'
+	si (mas==s)
+		archivo.ejecutar("respuesta.lat")
+	
+	sino 
+		si (mas==n)
+			poner ("Ok! Sigue Tu mundo Gran Sabio ")
+		fin
+
+	si(mas!=s && mas!=n)
+		poner("tecla equivocada o el teclado se encuentra en MAYUS,\n Porfavor vuleva a intentarlo")
+	fin
+	
+	fin
+
+
+
+
+	// Si existe otra fecha poner (" fecha "

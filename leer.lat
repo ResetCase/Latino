@@ -1,0 +1,35 @@
+//Ingreso de datos con leer usando si o sino
+/*Autor: @Emperator
+* <h1> Construyendo el futuro </h1>
+*/
+
+poner("Ingresa 1 o 0 para entrar")
+x=leer()
+si x==1
+	poner(--"Exito"---)
+sino 
+	si (x==0)
+		poner("Abortar mision")
+
+	fin
+fin 
+
+
+
+poner("------------------------------------")
+poner("ingresa y/n para entrar o salir")
+poner("------------------------------------")
+
+
+
+dato=leer()
+
+si (dato==y)
+
+	poner ("Ingresadno ....")
+
+sino 
+	si (dato==n)
+		poner("Accion canselada")
+	fin
+fin

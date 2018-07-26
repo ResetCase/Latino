@@ -1,0 +1,12 @@
+#!/usr/local/bin/latino
+poner("Content-type:text/html\r\n\r\n")
+poner("<html>".."<head>")
+poner("<title> Emperator".."</title>".."</head>") 
+poner("<body>") 
+poner("<h1> Hola Emperador </h1>")
+desde(i=0; i<10; i++)
+    poner("\n Hola Emperador: \n"..i)
+fin
+poner("<h1> Este es un script realizado con latino </h1>")
+poner("<h2> Eso es lo que ES!</h2>")
+poner("</body></html>")

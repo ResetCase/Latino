@@ -1,0 +1,41 @@
+
+
+//ejemplo de de funciones & Ejercicios de Funciones
+
+poner("______________________________")
+poner("Esto son ejemplos de funciones")
+poner("______________________________")
+
+poner("______________________________")
+poner("----Ejercicios o practicas----")
+
+poner("______________01______________")
+
+
+funcion promedio(a,b)
+    retorno (a+b)/2
+fin
+
+funcion max(a,b)
+    si (a > b)
+        retorno a
+    sino
+        retorno b
+    fin
+fin
+
+funcion min(a,b)
+    si (a < b)
+        retorno a
+    sino
+        retorno b
+    fin
+fin
+poner("______________________________")
+poner("         _"..promedio(3, 5).."_    ") #4
+poner("______________________________")
+poner(max(3, 5)) #5
+poner("______________________________")
+poner(min(3, 5)) #3
+
+poner("______________________________")

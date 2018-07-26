@@ -1,0 +1,13 @@
+ //Este programa suma un archivo de otro archivo
+
+poner(" Ingrese un valor: " .. "\n Este se sumara con el archivo suma.lat")
+
+code=leer()
+archivo.ejecutar("suma.lat")
+dara= c+ code
+
+poner("________________________________________")
+poner(" El resultado que ingreso fue: "..code.. "\n Dara como resultado la suma de: "..dara)
+poner("________________________________________")
+
+

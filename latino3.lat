@@ -1,0 +1,29 @@
+//Programa de Si o No
+
+poner("Ingresa un numero 1 al 3")
+
+x=leer()
+
+
+si (x==1)
+
+poner ("Es Sexy Brain ")
+
+	sino
+
+si (x== 2)
+poner ("Es Sexy Body")
+
+	sino
+si(x==3)
+
+poner ("Es sexy face")
+
+	sino 
+	poner("El dato esta corrupto")
+
+	fin
+
+fin
+
+fin

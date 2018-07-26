@@ -1,0 +1,7 @@
+ poner(" Esto es un programa de suma en latino")
+
+a=3
+b=3
+c=a+b
+
+	poner(" la variable a es igual a: "..a.."\n la variable b es igual a: "..b.."\n la variable c es el resutlado de a+b y es igual a: "..c)

@@ -1,0 +1,19 @@
+ 
+// ejercicio de practica  for
+
+
+desde (i=0;i<=9;i++)
+				poner(i)
+
+	desde(s=0;s<=9;s++)
+	 				poner(s)
+
+		desde(m=0;m<=9;m++) 
+					poner(m)
+
+			desde(h=0;h<=9;h++)
+				poner(h..":"..m..":"..s..":"..i)
+			fin
+		fin
+	fin
+fin

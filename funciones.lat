@@ -1,0 +1,10 @@
+
+poner("ingresa numeros: ")
+a=leer()
+b=leer() 
+poner("el resutaldo del la funcion es ")
+funcion promedio(a,b)
+    retorno (a+b)/2
+fin
+poner (promedio(a, b))
+

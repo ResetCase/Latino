@@ -1,0 +1,52 @@
+//numeros aleatorios del 1 al 9
+//donde el menor es  0000 y  el maximo es 9999 
+//donde hace un recorido aleatorio
+
+poner("_____________________________________________")
+poner(" Estos son los colores digitales de la suerte")
+poner("_____________________________________________")
+
+azul=1
+rojo=2
+verde=3
+amarillo=4
+negro=5
+blanco=6
+ley=0
+numero = mate.aleatorio(0, 6)
+
+	si( numero ==1)
+poner("Este es el color digital de tu suerte Azul ".." Este es el numero "..azul.." De tu suerte" )
+
+      fin
+ si( numero ==2)
+poner("Este es el color digital de tu suerte ROJO ".."Este es el numero "..rojo.." De tu suerte")
+
+      fin
+
+ si( numero ==3)
+poner("Este es el color digital de tu suerte VERDE ".."Este es el numero "..verde.." De tu suerte")
+
+      fin
+
+ si( numero ==4)
+poner("Este es el color digital de tu suerte AMARILLO ".."Este es el numero "..amarillo.." De tu suerte")
+
+      fin
+
+ si( numero ==5)
+poner("Este es el color digital de tu suerte NEGRO ".."Este es el numero "..negro.." De tu suerte")
+
+      fin
+
+ si( numero ==6)
+poner("Este es el color digital de tu suerte BLANCO ".."Este es el numero "..blanco.." De tu suerte")
+
+      fin
+
+ si( numero ==0)
+poner("Este es el color digital de tu suerte LEY ".."Este es el numero "..ley.." Es el espacio")
+
+      fin
+
+

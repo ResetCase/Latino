@@ -1,0 +1,28 @@
+//reglog hecho en latino
+seg=0 //segundos
+min=0 //Minutos
+hor=0   //horas
+mile=0
+
+mientras (hor<=12)
+       mile=mile+1
+	        si (mile <= 99)
+		 mile=0
+		 seg= seg+1
+  si (seg==60)
+        seg=0
+        min=min+1
+                si(min==60)
+		  min=0
+                  min=min+1
+			si (min==60)
+                  	hor= hor+1
+			fin	
+                fin
+  fin
+	fin
+	  
+      poner(mile..":"..seg..":"..min..":"..hor)
+
+fin
+

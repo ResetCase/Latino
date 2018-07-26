@@ -1,0 +1,23 @@
+/*Este es un ejemplo de forma Si o Sino 
+*Para practicar la ulilidad de estas eventuliades
+*autor:@Emperador
+*<h1> Ejercicios Si </h1>
+*Musica:lunes-4-de junio - 2018
+*Tiempo: 10:43 p.m
+*/
+
+poner("Ingresa la temperatura")
+tempe=leer()
+
+si (tempe > 25)
+
+	poner("Vamos a la playa o a la picina?")
+
+fin
+
+si (tempe <=25) 
+
+	poner("Esperemos un mejor clima")
+fin
+
+

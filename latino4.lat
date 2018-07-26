@@ -1,0 +1,19 @@
+# Entradad de dato caracter
+/*autor: @Emperador
+* <h1> Aplicacion de misiones personales </h1>
+* musica: drum&Bass
+*/
+ 
+escribir("Quieres aceptar la mision S/N Papu")
+s=leer()
+
+
+si(sisas==S && sisas==s)
+   escribir ("Bienvenido mision aceptada ! ")
+sino
+    si(sisas!=S && sisas!=s)
+        escribir("Mision cancelada ")
+    sino
+        escribir("Estas fuera de rango".. -1)
+    fin
+fin

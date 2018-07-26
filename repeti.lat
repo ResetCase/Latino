@@ -1,0 +1,18 @@
+poner ("ingrese un 1 o 0")
+a=leer()
+i=0
+repetir 
+	si (a ==1 )
+		poner("Este es mi mundo " .. i)
+	sino
+        	si (a==0)
+		poner("Welcome in the real world "..i)
+	        fin
+	        
+		
+	fin
+i++
+		si (a != 1 && a != 0)
+			poner ("Error al ingresar los datos")
+		fin
+hasta (i>=9)

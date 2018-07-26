@@ -1,0 +1,12 @@
+!#/usr/local/bin/latino
+
+b=mate.aleatorio(0, 9)
+a=mate.aleatorio(0, 0)
+l=mate.aleatorio(0, 9)
+o=mate.aleatorio(0, 9)
+t=mate.aleatorio(0, 9)
+u=mate.aleatorio(0, 9)
+
+
+poner ("los numeros " ..b.." " ..a.." " ..l.." " ..o.." ".."[" ..t.." " ..u.."]")
+

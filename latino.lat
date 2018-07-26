@@ -1,0 +1,4 @@
+poner("Come te llamas?")
+//pide nombre al usuario por teclado y lo muestra
+nombre=leer()
+poner("Hola " .. nombre)

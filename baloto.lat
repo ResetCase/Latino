@@ -1,0 +1,23 @@
+
+
+i = 0
+
+repetir
+
+b=mate.aleatorio(1, 44)
+a=mate.aleatorio(1, 44)
+l=mate.aleatorio(1, 44)
+o=mate.aleatorio(1, 44)
+t=mate.aleatorio(1, 44)
+u=mate.aleatorio(1, 16)
+
+si (b !=a && b !=l && b !=o && b !=t && b !=u && b !=b &&  b >= 44)
+
+poner("Numeros son: "..b)
+
+fin
+si (u >= 16)
+poner("La super Balota es: " ..U)
+fin
+    i++
+hasta (i >=5 )
