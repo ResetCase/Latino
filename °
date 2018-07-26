@@ -1,0 +1,56 @@
+/* Sistema hidroponico Automatizado */
+
+
+poner("\n\n")
+poner("|------------------------------------------------|")
+poner("|------------------------------------------------|")
+poner("|----Bienvenido al sistema hidroponico-----------|")
+poner("|------------------De----------------------------|")
+poner("|----------------Emperadore----------------------|")
+poner("\n   ")
+
+poner(" -- Para tener una mejor experincia lea el manual --")
+poner("\n Tambien puede ingresar a nuestro lugar en internet ")
+poner(" -- https://wwwfacebook.com -- Telergram : t/me. grupo")
+poner("\n ___________________________________________________")
+poner(" ___________________________________________________")
+poner(" ___________________________________________________")
+poner("\n ----------ELiga una de las siguientes Opciones----- ")
+poner(" ___________________________________________________")
+poner(" ___________________________________________________\n")
+poner("\n	1. Iniciar Sistema de riego  ")
+poner("\n 	2. Activivar seguimiento remoto ")
+poner("\n 	3. Reporte de eventos diarios  ")
+poner("\n	4. Seguimiento de comoponentes liquidos  ")
+poner("\n 	5. Analisis del fluido liquido ")
+poner("\n 	6. Reporte de errores ")
+poner("\n	7. Opciones")
+poner("\n 	8. Guardar")
+poner("\n 	9. Salir ")
+	
+poner("\n \n --> Ingrese el numero de la Opcion a emplear <--")
+x=leer()
+
+elegir(x)
+
+	caso 1:
+		poner("Iniciando Sistema ...")
+	caso 2:
+		poner(" Activando conexion remota ...")
+	caso 3:
+		poner(" Abriendo programa de reportes ...")
+	caso 4: 
+		poner(" Administracion de componetens liquidos..")
+	caso 5:
+		poner(" Analizando componentes liquidos ...")
+	caso 6:
+		poner(" Quieres reportar errores [Y/n] ..")
+	caso 7:
+		poner(" Esta es la lista de opciones...")
+	caso 8:
+		poner(" Desea guaradar el perfil actual [Y/n]")
+	caso 9:
+		poner(" Saliendo y Guardando ")
+	defecto:
+		poner(" error al ingresar el dato ")
+	fin
